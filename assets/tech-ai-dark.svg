@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="104" viewBox="0 0 460 104" role="img" aria-label="Tech AI: atl lab assistant">
+<defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#20313f" stroke-width="1"/></pattern></defs>
+<rect width="460" height="104" rx="16" fill="#101b25"/>
+<rect width="460" height="104" rx="16" fill="url(#grid)"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="20" y="27" fill="#71d6bb" font-family="monospace" font-size="10" letter-spacing="1">05 / ATL LAB ASSISTANT</text>
+<text x="19" y="66" fill="#eef3f4" font-size="25" font-weight="bold" letter-spacing="-.6">Tech AI</text>
+<path d="M20 86H316" stroke="#20313f" stroke-width="2"/>
+<g transform="translate(376 24)" fill="none" stroke="#71d6bb" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="5" width="54" height="35" rx="4"/><path d="M28 40V52M16 52H40M12 17H44M12 27H33"/></g></g></svg>

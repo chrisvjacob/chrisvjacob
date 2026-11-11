@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="104" viewBox="0 0 460 104" role="img" aria-label="Healthocare: health at home">
+<defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#e2eae5" stroke-width="1"/></pattern></defs>
+<rect width="460" height="104" rx="16" fill="#f5f8f6"/>
+<rect width="460" height="104" rx="16" fill="url(#grid)"/>
+<g font-family="DejaVu Sans, sans-serif">
+<text x="20" y="27" fill="#16775f" font-family="monospace" font-size="10" letter-spacing="1">03 / HEALTH AT HOME</text>
+<text x="19" y="66" fill="#182d30" font-size="25" font-weight="bold" letter-spacing="-.6">Healthocare</text>
+<path d="M20 86H316" stroke="#e2eae5" stroke-width="2"/>
+<g transform="translate(376 24)" fill="none" stroke="#16775f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="7" width="54" height="43" rx="7"/><path d="M8 29H18L24 17L32 40L39 26H49"/></g></g></svg>
